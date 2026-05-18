@@ -274,3 +274,8 @@ A student trying to access admin routes:
 1. Register a user → copy the `token`
 2. In subsequent requests, add header: `Authorization: Bearer <token>`
 3. Register an admin with `"role": "admin"` to test admin routes
+
+## 📝 License
+
+MIT
+
